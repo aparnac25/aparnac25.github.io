@@ -19,3 +19,4 @@ edwardsi_), brown lemurs (_Eulemur rufifrons_), red-bellied lemurs (_Eulemur
 rubriventer_), bamboo lemurs (_Hapalemur griseus_), and ruffed lemurs
 (_Varecia variegata_) vary in size, locomotor pattern, dietary
 diversity, and life history variables. 
+```
