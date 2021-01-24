@@ -2,12 +2,11 @@
 
 Graduate student at the [Primate Molecular Ecology Lab](https://www.hunterpmel.org/) at Hunter College studying lemur genetics. 
 
-### Current Projects 
+## Current Projects 
 
 ```markdown
-
-# Population History
-![Image]({{ aparnac25.github.io }}/photos/Prop_pic.JPG)
+### Population History
+![useful image]({{ aparnac25.github.io }}/photos/Prop_pic.JPG)
 
 Ranomafana National Park (RNP) has one of the highest levels of primate
 biodiversity in the world, containing thirteen species of lemurs, three
