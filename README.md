@@ -1,4 +1,4 @@
-## Aparna Chandrashekar
+## Aparna Chandrashekar, M.A.
 
 Graduate student at the [Primate Molecular Ecology Lab](https://www.hunterpmel.org/) at Hunter College studying lemur genetics. 
 
