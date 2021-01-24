@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Aparna Chandrashekar
 
-You can use the [editor on GitHub](https://github.com/aparnac25/aparnac25.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Graduate student at the [Primate Molecular Ecology Lab](https://www.hunterpmel.org/) at Hunter College studying lemur genetics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Current Projects 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Population History
+![Image]({{ aparnac25.github.io }}/photos/Prop_pic.JPG)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aparnac25/aparnac25.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ranomafana National Park (RNP) has one of the highest levels of primate
+biodiversity in the world, containing thirteen species of lemurs, three
+of which are critically endangered. While over 50% of the park is
+primary forest, the remainder has been subject to varying levels of
+logging and other anthropogenic and natural disturbance. To evaluate the
+effect of these pressures, we are reconstructing population demography
+across five diurnal lemur species. Thsese species -- Milne Edwards' sifakas (_Propithecus
+edwardsi_), brown lemurs (_Eulemur rufifrons_), red-bellied lemurs (_Eulemur
+rubriventer_), bamboo lemurs (_Hapalemur griseus_), and ruffed lemurs
+(_Varecia variegata_) vary in size, locomotor pattern, dietary
+diversity, and life history variables. 
